@@ -1,0 +1,27 @@
+html {
+  background: url("office3.jpg") no-repeat center center fixed;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+div.form-container {
+  animation-duration: 3s;
+}
+.form-container .title h1 {
+  font-size: 40px;
+  margin-bottom: 2.5rem;
+  color: #00e600;
+  letter-spacing: 0.1rem;
+}
+.icons {
+  margin: 5px;
+  font-size: 1.5rem;
+  color: #00e600;
+}
+
+.social-icon {
+  margin: 20px;
+  font-size: 1.5rem;
+  color: #00e600;
+}
